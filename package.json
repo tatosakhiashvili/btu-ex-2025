@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-     "start": "json-server --watch db.json --port $PORT --no-static"
+    "start": "json-server --watch db.json --port $PORT"
   },
   "author": "",
   "license": "ISC",
