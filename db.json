@@ -1,5 +1,5 @@
 {
-    "posts": [
+    "news": [
       { "id": 1, "title": "Hello World", "content": "This is a mock post." }
     ]
   }
